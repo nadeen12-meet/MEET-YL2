@@ -1,0 +1,8 @@
+A.I typed python manage.py runserver. I went to an error page (page not found 404)
+B.http://127.0.0.1:8000/movies/1/
+  http://127.0.0.1:8000/movies/2/
+  it would be http://127.0.0.1:8000/movies/100/
+C.views.add_movie(request)
+  views.movie(request, movie_id)
+  ERROR 404
+
