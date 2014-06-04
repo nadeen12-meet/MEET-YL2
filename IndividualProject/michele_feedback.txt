@@ -1,0 +1,5 @@
+Good job finishing the app. I like that you chose to do something you know you would finish. Taking something you learned through a tutorial and building on it is exactly the right approach for a project where you don’t know much - and that is exactly what you did. I am extremely happy that you were able to finish your project. Good job figuring out how to implement removing everything from the picture, and how to take your own picture to draw on. I also like how you changed the shape of the color buttons to make it look nicer. 
+
+One feature suggestion to add would be to add a way for the user to pick the exact color they want to use (the user picks what amount of red, blue, and green to add to his marker). 
+
+Good job finishing with a working app.
